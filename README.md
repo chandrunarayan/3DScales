@@ -12,7 +12,7 @@ Program Requirements
 
 Suggested steps to start the assignment
 ------------------------------------------
-1. *Fork* [this repository](https://github.com/APCSLowell/Scales) 
+1. *Fork* [this repository](https://github.com/3DScales) 
 2. Open the `Scales.pde` file. Copy and paste the code into Processing.
 3. Complete `void setup()`, `void draw()` and `void scale(int x, int y)`.
 5. When you are happy with the program, copy and paste it back into the `Scales.pde` file on GitHub.
